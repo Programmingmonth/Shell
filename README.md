@@ -1,2 +1,2 @@
 # Shell
-This project is for a shell :)
+This shell for programming month.
